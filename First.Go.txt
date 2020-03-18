@@ -1,0 +1,5 @@
+package main
+import fmt
+main{
+    fmt.print("Hello")
+}
